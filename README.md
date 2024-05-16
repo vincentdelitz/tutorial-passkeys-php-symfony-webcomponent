@@ -1,4 +1,6 @@
 # Complete PHP Symfony integration example for Corbado's passkey-first web component
+> :warning: **This repository is no longer maintained**. Please have a look at our [new PHP Laravel passkeys repository](https://github.com/corbado/example-passkeys-php-symfony), which is the successor of this repository.
+
 This is a sample implementation of frontend and backend where the Corbado web component is integrated.
 
 **Note:** In this tutorial a customer system is created with some pre-existing password-based users. Have a look at our [docs](https://docs.corbado.com/integrations/web-component/no-existing-user-base) to see the integration if you don't have any users yet.
